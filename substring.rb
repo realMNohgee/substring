@@ -14,4 +14,4 @@ def substrings(string, dictionary)
   return substrings
 end
 
-substrings("Look what I did you! Hows your momma? Oh Thats great man well effe you I am out of here!", dictionary)
+p substrings("Look what I did you! How's your momma? Cause yo I am down with your moms? She is my friend in low places. You know what I am saying partner? I'm saying I'm horn eeee! I own that kitty! Oh that's great man well effe you I am out of here!", dictionary)
